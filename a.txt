@@ -1,4 +1,3 @@
-Lots of changes in the file 
-Feature branch I am from A test
+ Feature branch I am from A test
 sdfads
 From Github.com
